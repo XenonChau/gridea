@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://gridea.zzn.sb</id>
     <title>sb.zzn.blog</title>
-    <updated>2021-05-05T06:27:27.202Z</updated>
+    <updated>2021-05-05T06:31:35.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://gridea.zzn.sb"/>
     <link rel="self" href="http://gridea.zzn.sb/atom.xml"/>
-    <subtitle>&lt;span style=&quot;color: transparent; text-shadow: #111 0 0 6px;&quot;&gt;傻逼一个&lt;/span&gt;</subtitle>
+    <subtitle>&lt;span style=&apos;color: transparent; text-shadow: #111 0 0 6px;&apos;&gt;傻逼一个&lt;/span&gt;</subtitle>
     <logo>http://gridea.zzn.sb/images/avatar.png</logo>
     <icon>http://gridea.zzn.sb/favicon.ico</icon>
     <rights>All rights reserved 2021, sb.zzn.blog</rights>
